@@ -1,1 +1,23 @@
-/* css will go here
+
+body            
+{
+    background-color:#cfb4da;
+    font-size:14px;
+    font-family:Verdana;
+}
+
+p{
+    font-size: large;
+    text-decoration-style: solid;
+}
+
+
+.about{
+    text-align: center;
+    color: rgb(90, 14, 90);
+}
+.button{
+    background-color: rgb(25, 15, 34);
+    
+
+}
