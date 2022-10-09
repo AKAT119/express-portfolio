@@ -8,6 +8,9 @@
 </main>-->
 
 <% switch (title) {
+  case 'main' : %>
+  <%- include partials/mainPage.ejs%>
+          <% break;
   case 'Home' : %>
   <%- include partials/home.ejs%>
           <% break;
